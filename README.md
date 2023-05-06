@@ -7,7 +7,7 @@ This exploit allows code execution without any prior authentication on a default
    - Nicolas Brunner - SCRT
    
 ### Writeup
-[https://blog.scrt.ch](https://blog.scrt.ch)
+[https://blog.scrt.ch/2023/05/01/solr-rce-from-exposed-administration-interface/](https://blog.scrt.ch/2023/05/01/solr-rce-from-exposed-administration-interface/)
 
 ### PoC:
 ![](fullPoc.gif)
